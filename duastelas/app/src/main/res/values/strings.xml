@@ -3,4 +3,7 @@
     <string name="txtStrAlo">Hello World!</string>
     <string name="strBtnGoToTela1">Go to Tela1</string>
     <string name="strBtnVoltar">Back</string>
+    <string name="esquece_esse" />
+    <string name="esquece_tbm">Proxima</string>
+    <string name="btnGoTo3">Proxima</string>
 </resources>
